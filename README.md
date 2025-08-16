@@ -1,7 +1,3 @@
-Here’s your updated `README.md` for **ChemStruct Suite**:
-
----
-
 # 🧪 ChemStruct Suite
 
 **ChemStruct Suite** is an integrated toolkit for computational chemistry, combining a **GAMESS input file builder** with an interactive **3D molecular visualizer**.
